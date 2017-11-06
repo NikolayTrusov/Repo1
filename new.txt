@@ -1,2 +1,6 @@
 branch text
+<<<<<<< HEAD
 master change
+=======
+modified after master
+>>>>>>> NewBranch
